@@ -7,7 +7,7 @@
 <title>save Location</title>
 </head>
 <body>
-<h2>save Location</h2>
+<h2>Save Location</h2>
 <a href="listall">All Locations</a>
 <form action="saveLocation">
 <pre>
